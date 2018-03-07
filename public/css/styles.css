@@ -1,0 +1,22 @@
+.navContents {
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.navText {
+    color: black;
+}
+
+.homePage {
+    text-align: center;
+    background-image: url("../images/main.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.homeText {
+    margin-top: 30vh
+}
